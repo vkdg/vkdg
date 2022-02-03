@@ -2,6 +2,7 @@
 
 * 🔭 I’m currently working on AsiaOptom
 * 🌱 I’m currently learning React
+* 📫 How to reach me: [Telegram](https://t.me/exportDefault), [LinkedIn](https://linkedin.com/in/vkgrd)
 
 <!--
 **vkdg/vkdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
