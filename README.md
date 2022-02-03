@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 🔭 I’m currently working on AsiaOptom
-* 🌱 I’m currently learning React
+* 🌱 I’m currently learning React, Express, Node
 * 📫 How to reach me: [Telegram](https://t.me/exportDefault), [LinkedIn](https://linkedin.com/in/vkgrd)
 
 <!--
