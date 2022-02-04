@@ -1,9 +1,6 @@
 # Hi there 👋
-## Summary
 
-* 🔭 I’m currently working on AsiaOptom
-* 🌱 I’m currently learning React, Express, Node
-* 📫 How to reach me: [Telegram](https://t.me/exportDefault), [LinkedIn](https://linkedin.com/in/vkgrd)
+I work full-time at G2R Company Ltd. I develop Front-end in AsiaOptom. In my free time, I study new things, ride a bike and lead a relatively active lifestyle.
 
 ## Skills
 * HTML/CSS3 (flex, grid)
@@ -20,6 +17,12 @@
 * [career.habr.com](https://career.habr.com/vkdg)
 * [linkedin.com](https://linkedin.com/in/vkgrd)
 * [vkdg.ru](https://vkdg.ru)
+
+## Summary
+
+* 🔭 I’m currently working on AsiaOptom
+* 🌱 I’m currently learning React, Express, Node
+* 📫 How to reach me: [Telegram](https://t.me/exportDefault), [LinkedIn](https://linkedin.com/in/vkgrd)
 
 
 
