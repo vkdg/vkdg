@@ -11,6 +11,7 @@
 * JavaScript (ES6+)
 * Little bit NodeJS
 * Little bit ReactJS
+* Little bit express
 * Webpack, gulp (+ laravel-elixir)
 * Git
 * Linux, macOS
