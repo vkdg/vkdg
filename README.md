@@ -14,13 +14,13 @@ I work full-time at G2R Company Ltd. I develop Front-end in AsiaOptom. In my fre
 * Linux, macOS
 
 ## CV's
-* [career.habr.com](https://career.habr.com/vkdg)
+* [hh.ru](https://magnitogorsk.hh.ru/resume/f93c6613ff09ab5c360039ed1f53616f747657)
 * [linkedin.com](https://linkedin.com/in/vkgrd)
 * [vkdg.ru](https://vkdg.ru)
 
 ## Summary
 
-* 🔭 I’m currently working on AsiaOptom
+* 🔭 I’m currently search new job
 * 🌱 I’m currently learning React, Express, Node
 * 📫 How to reach me: [Telegram](https://t.me/exportDefault), [LinkedIn](https://linkedin.com/in/vkgrd)
 
