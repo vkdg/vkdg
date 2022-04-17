@@ -27,7 +27,8 @@ I work full-time at G2R Company Ltd. I develop Front-end in AsiaOptom. In my fre
 ## Training
 
 ![Codewars Kata](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.vkdg.ru%2Fapi%2Fcodewars%2Fcompleted&cacheSeconds=3600)&nbsp;&nbsp;
-![Codewars Rank](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.vkdg.ru%2Fapi%2Fcodewars%2Frank&cacheSeconds=36000)
+![Codewars Rank](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.vkdg.ru%2Fapi%2Fcodewars%2Frank&cacheSeconds=36000)&nbsp;&nbsp;
+![Codewars Rank](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.vkdg.ru%2Fapi%2Fcodewars%2Fposition)
 
 
 
