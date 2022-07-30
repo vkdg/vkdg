@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I work full-time at Sinergium. In my free time, I study new things, ride a bike and lead a relatively active lifestyle.
-(ex) G2R Copmany Ltd Lead Frontend Developer, develop frontend in AsiaOptom.
+* (ex) G2R Company Ltd Lead Frontend Developer, develop frontend in AsiaOptom.
 
 ## Skills
 * HTML/CSS3 (flex, grid)
