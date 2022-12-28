@@ -16,19 +16,23 @@ I work full-time at Sinergium. In my free time, I study new things, ride a bike 
 * Little bit ReactJS
 * Little bit express
 * Little bit PHP
+* Little bit Python
+* Little bit Django
 * Webpack, gulp (+ laravel-elixir)
 * Git
 * Github Actions 
 * Linux, macOS
 
+<!--
 ## CV's
 * [linkedin.com](https://linkedin.com/in/vkgrd)
 * [vkdg.ru](https://vkdg.ru)
+-->
 
 ## Summary
 
 * 🔭 I'm not currently looking for a job, but I'm considering offers
-* 🌱 I’m currently learning React, Express, Node, PHP
+* 🌱 I’m currently learning React, Express, Node, PHP, Python
 * 📫 How to reach me: [Telegram](https://t.me/exportDefault), [LinkedIn](https://linkedin.com/in/vkgrd)
 
 ## Training
