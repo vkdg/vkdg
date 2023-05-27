@@ -10,16 +10,17 @@ I work full-time at Sinergium. In my free time, I study new things, ride a bike 
 * (ex) System Administrator at Department of Education of Magnitogorsk. Center for advanced training and educational and methodical work. Department of Informatization
 
 ## Skills
-* HTML/CSS3 (flex, grid)
-* SASS (SCSS), Less
+* HTML/CSS3 (flex, grid, BEM)
+* SASS (SCSS)
 * JavaScript (ES6+)
+* Little bit Python
+* Little bit Django
+* Little bit PHP
 * Little bit NodeJS
 * Little bit ReactJS
 * Little bit express
-* Little bit PHP
-* Little bit Python
-* Little bit Django
-* Webpack, gulp (+ laravel-elixir)
+* Little bit SQL
+* Webpack
 * Git
 * Github Actions 
 * Linux, macOS
