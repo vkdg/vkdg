@@ -38,6 +38,7 @@ I work full-time at Sinergium. In my free time, I study new things, ride a bike 
 ## Training
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkdg)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Codewars](https://www.codewars.com/users/vkdg/badges/large)
 
 
