@@ -1,7 +1,8 @@
 # Hi there 👋
 
 I work full-time at Sinergium. In my free time, I study new things, ride a bike and lead a relatively active lifestyle.
-* TeamLead Fullstack Developer at Sinergium
+* Head of Development at Sinergium
+* (ex) TeamLead Fullstack Developer at Sinergium
 * (ex) TeamLead Frontend Developer at G2R Company Ltd (AsiaOptom)
 * (ex) Frontend Developer at Borkover
 * (ex) Frontend Developer at Uralkam
