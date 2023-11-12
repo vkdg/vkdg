@@ -13,16 +13,19 @@ I work full-time at Sinergium. In my free time, I study new things, ride a bike 
 * HTML/CSS3 (flex, grid, BEM)
 * SASS (SCSS)
 * JavaScript (ES6+)
-* Little bit Python
-* Little bit Django
+* Django
+* Python
 * Little bit PHP
+* Little bit Laravel
 * Little bit NodeJS
 * Little bit ReactJS
 * Little bit express
 * Little bit SQL
 * Webpack
 * Git
-* Github Actions 
+* Github Actions
+* Gitlab CI
+* Docker
 * Linux, macOS
 
 <!--
