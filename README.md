@@ -25,8 +25,9 @@ I work full-time at Sinergium. In my free time, I study new things, ride a bike 
 * Git
 * Github Actions
 * Gitlab CI
+* Little bit Zabbix
 * Docker
-* Linux, macOS
+* Linux (Debian, Ubuntu), macOS
 
 <!--
 ## CV's
@@ -37,7 +38,8 @@ I work full-time at Sinergium. In my free time, I study new things, ride a bike 
 ## Summary
 
 * 🔭 I'm not currently looking for a job, but I'm considering offers
-* 🌱 I’m currently learning React, Express, Node, PHP, Python
+* 🌱 I’m currently learning Django, Python, Debian, DevOps and ...management :) 
+<!-- * 🌱 I’m currently learning React, Express, Node, PHP, Python-->
 * 📫 How to reach me: [Telegram](https://t.me/exportDefault), [LinkedIn](https://linkedin.com/in/vkgrd)
 
 ## Training
